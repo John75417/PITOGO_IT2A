@@ -3,8 +3,8 @@ public static void main (String[] args){
     Scanner sc = new Scanner(System.in);
     System.out.println("-------------------------------");
     System.out.println("-----PORTFOLIO OF ACTIVITY-----");
-    System.out.println("NAME: DANIEL VILLARINO");
-    System.out.println("SECTION AND YEAR: IT2C");
+    System.out.println("NAME:JOHN VINCENT O. PITOGO");
+    System.out.println("SECTION AND YEAR: IT2A");
     System.out.println("------CONTENTS-----------------");
     System.out.println("1. Activity 1");
     System.out.println("2. Activity 2");
